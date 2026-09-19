@@ -114,4 +114,5 @@ Add two slicers:
 
 ## Result :
 
-Thus, the sales data was successfully prepared and analyzed using Power BI. Bivariat
+Thus, the sales data was successfully prepared and analyzed using Power BI. Bivariate visualizations were created to study the relationships between sales, quantity, category, sales channel, payment method, and unit price. An interactive dashboard was developed using summary cards and slicers to provide useful insights into sales performance.
+
